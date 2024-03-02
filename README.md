@@ -122,6 +122,15 @@
 --------
 
 
+### 中科院数学研究院
+
+- **Chuan Zhou**, 副教授
+  - [个人主页](http://www.chuanzhou.online/)
+  - [谷歌学术](https://scholar.google.com/citations?user=4oBUWVEAAAAJ&hl=en)
+
+--------
+
+
 
 ### 北京邮电大学
 
@@ -217,6 +226,14 @@
 
 - **Wei Zhao**, 教授
   - [谷歌学术](https://scholar.google.com.hk/citations?user=OyzZmeAAAAAJ&hl=en)
+
+-----
+
+### 南京理工大学
+
+- **Chen Gong**, 教授
+  - [个人主页](https://gcatnjust.github.io/ChenGong/index.html)
+  - [谷歌学术](https://scholar.google.com.hk/citations?user=guttoBwAAAAJ&hl=zh-CN)
 
 -----
 
